@@ -1,8 +1,3 @@
-<!-- Banner Image with Welcome Message -->
-<p align="center">
-  <img src="https://unsplash.com/photos/black-flat-screen-computer-monitor-beside-white-computer-keyboard-Hpaq-kBcYHk" alt="Banner Image" width="100%" />
-</p>
-
 <!-- Rest of your README content below -->
 
 <h1 align="center">Welcome to My Page!</h1>
