@@ -1,110 +1,112 @@
+Here is the complete version of your portfolio using a markdown format that aligns with the bookdown style and makes the profile compelling and attractive to recruiters:
+
+```markdown
 <p align="center">Here you can find all my projects, thoughts, and experiences in the world of technology. Feel free to explore and connect!</p>
 
-<h1 align="center">Hi 👋, I'm S.Harish Krishnan</h1>
+<h1 align="center">Hi 👋, I'm S. Harish Krishnan</h1>
 <h3 align="center">A passionate machine learning and data science enthusiast from Australia</h3>
-<img align=“right” alt = “Coding” width = “400” src = "https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderharry1&label=Profile%20views&color=0e75b6&style=flat" alt="coderharry1" /> </p>
 
 ---
 
-### 🔬 Projects
+## 🔬 **Projects**
 
-Here are some of the key projects I've worked on:
+### **Here are some of the key projects I've worked on:**
 
-#### 📊 Breast Cancer Prediction
+---
+
+#### 📊 **Breast Cancer Prediction**
 - **Project Duration:** June 2024 – July 2024
-- **[![Project Image](https://via.placeholder.com/150)](https://github.com/coderharry1/Breast-Cancer-Prediction-)**
+- **[![Breast Cancer Prediction](https://via.placeholder.com/150)](https://github.com/coderharry1/Breast-Cancer-Prediction-)**
 
-**Description:**
+**Description:**  
 Fine-tuned hyperparameters and optimized feature selection to achieve a remarkable 92.31% recall rate for detecting malignant breast cancer, surpassing industry benchmarks and providing early detection for patients.
 
-**Implementation:**
+**Implementation:**  
 - Analyzed data from over 10,000 patient cases to identify key trends and patterns.
 - Developed and implemented a novel SVM approach, which significantly reduced false positives for benign cases to less than 15%.
 - Utilized feature engineering and cross-validation to optimize the model's performance.
 
-**Skills Gained:**
+**Skills Gained:**  
 - Advanced understanding of Support Vector Machines (SVM).
 - Expertise in hyperparameter tuning and feature selection.
 - Enhanced ability to interpret medical data for predictive modeling.
 
 ---
 
-#### 🚴 Prediction of Seoul’s Bike Rental Demand
+#### 🚴 **Prediction of Seoul’s Bike Rental Demand**
 - **Project Duration:** April 2024 – May 2024
-- **[![Project Image](https://via.placeholder.com/150)](https://github.com/coderharry1/SeoulBikeData)**
+- **[![Seoul Bike Rental Prediction](https://via.placeholder.com/150)](https://github.com/coderharry1/SeoulBikeData)**
 
-**Description:**
+**Description:**  
 Spearheaded predictive analytics for Seoul's bike rental demand, employing regression models to boost forecasting accuracy by 22.77%, enhancing operational efficiency and resource allocation.
 
-**Implementation:**
+**Implementation:**  
 - Analyzed historical data on bike rentals in Seoul to identify key trends, such as a direct correlation between temperature and rental frequency.
 - Developed predictive models using regression analysis to forecast demand, optimizing resource allocation.
 - Presented findings to stakeholders, leading to improved operational strategies.
 
-**Skills Gained:**
+**Skills Gained:**  
 - Proficiency in regression analysis and time series forecasting.
 - Ability to analyze and interpret large datasets for operational improvements.
 - Strong communication skills for presenting technical data to non-technical audiences.
 
 ---
 
-#### 🧠 Advanced Predictive Analytics for Job Change Intentions
+#### 🧠 **Advanced Predictive Analytics for Job Change Intentions**
 - **Project Duration:** February 2024 – March 2024
-- **[![Project Image](https://via.placeholder.com/150)](https://github.com/coderharry1/Advanced-Predictive-Analytics-for-job-change-intentions)**
+- **[![Job Change Prediction](https://via.placeholder.com/150)](https://github.com/coderharry1/Advanced-Predictive-Analytics-for-job-change-intentions)**
 
-**Description:**
+**Description:**  
 Applied advanced machine learning techniques, including SMOTE, to address class imbalance in datasets, resulting in a significant accuracy improvement from 99.54% to 99.72%, enhancing forecasting precision and optimizing marketing strategies.
 
-**Implementation:**
+**Implementation:**  
 - Utilized advanced data imputation techniques to fill missing values in a dataset of 19,158 records.
 - Implemented SMOTE (Synthetic Minority Over-sampling Technique) to handle class imbalance.
 - Fine-tuned models to ensure high accuracy and precision in job change prediction.
 
-**Skills Gained:**
+**Skills Gained:**  
 - Mastery of techniques for handling imbalanced datasets.
 - Advanced skills in data imputation and preprocessing.
 - Enhanced ability to improve model accuracy through iterative testing and tuning.
 
 ---
 
-#### 📚 Review of Developmental Strides Towards the Edutainment Domain
+#### 📚 **Review of Developmental Strides Towards the Edutainment Domain**
 - **Publication Period:** August 2022 – December 2022
-- **[![Project Image](https://via.placeholder.com/150)](https://github.com/coderharry1/Advanced-Predictive-Analytics-for-job-change-intentions)**
+- **[![Edutainment Review](https://via.placeholder.com/150)](https://github.com/coderharry1/Advanced-Predictive-Analytics-for-job-change-intentions)**
 
-**Description:**
+**Description:**  
 Conducted research on the impact of educational games on student engagement and learning outcomes, resulting in a report in IRJET that influenced educational strategies in over 15 countries.
 
-**Implementation:**
+**Implementation:**  
 - Analyzed the efficacy of educational games using qualitative and quantitative methods.
 - Published findings in a peer-reviewed journal, contributing to the academic discussion on edutainment.
 
-**Skills Gained:**
+**Skills Gained:**  
 - Research and analysis in the domain of educational technology.
 - Experience in academic writing and publication.
 - Ability to influence educational strategies through evidence-based research.
 
 ---
 
-<p align="left">
-   <a href="https://www.linkedin.com/in/harishkds/">
-      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
-   <a href="https://github.com/harishkds?tab=repositories">
-      <img alt="GitHub" title="Check out my GitHub" src="https://custom-icon-badges.demolab.com/badge/-Explore%20My%20Projects-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## 📊 **GitHub Stats**
+
+![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishkds&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishkds&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harishkds&theme=radical)
 
 ---
 
-### 📫 How to reach me
+## 📫 **How to reach me**
 
 You can reach me at: haricap273@gmail.com
 
 ---
 
-### 🧰 Languages and Tools
-
-### 🧰 Languages and Tools
+## 🧰 **Languages and Tools**
 
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
@@ -123,6 +125,4 @@ You can reach me at: haricap273@gmail.com
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Scikit-Learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"/>
 <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"/>
-<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<br />
+<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https
