@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm S.Harish Krishnan</h1>
 <h3 align="center">A passionate machine learning and data science enthusiast from Australia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671”>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderharry1&label=Profile%20views&color=0e75b6&style=flat" alt="coderharry1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently diving deep **into AWS, GCP, HP, CISCO, F5 , mastering cloud technologies that power the infrastructure of tomorrow. My goal? To be the architect behind the systems that bring ideas to life.**
+- 🔭 I’m currently diving deep **into AWS, GCP, HP, CISCO, F5 , mastering cloud technologies that power the infrastructure of tomorrow.**
 
 - 🌱 I’m currently learning **AWS, GCP , HP , CISCO , F5**
 
