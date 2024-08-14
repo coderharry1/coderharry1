@@ -60,7 +60,7 @@ Spearheaded predictive analytics for Seoul's bike rental demand, employing regre
 - **[![Job Change Prediction](https://via.placeholder.com/150)](https://github.com/coderharry1/Advanced-Predictive-Analytics-for-job-change-intentions)**
 
 **Description:**  
-Applied advanced machine learning techniques, including SMOTE, to address class imbalance in datasets, resulting in a significant accuracy improvement from 99.54% to 99.72%, enhancing forecasting precision and optimizing marketing strategies.
+Applied advanced machine learning techniques, including SMOTE, to address the class imbalance in datasets, resulting in a significant accuracy improvement from 99.54% to 99.72%, enhancing forecasting precision and optimizing marketing strategies.
 
 **Implementation:**  
 - Utilized advanced data imputation techniques to fill missing values in a dataset of 19,158 records.
