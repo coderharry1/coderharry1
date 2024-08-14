@@ -1,12 +1,12 @@
 <!-- Header Image -->
-[![MasterHead](https://wallpapercave.com/w/wp9165367)](https://coderharry1.io)
+[![MasterHead](https://images.unsplash.com/photo-1507838153414-b4b713384a76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGJyaWdodHxlbnwwfHx8fDE2MzExNDQ3MjA&ixlib=rb-1.2.1&q=80&w=1080)](https://coderharry1.io)
 
 <!-- Title and Introduction -->
 <h1 align="center" style="color: #ff6600;">Welcome to My Data Journey</h1>
 <h3 align="center" style="color: #00ccff;">Hi there! I'm <span style="color: #ffcc00;">S. Harish Krishnan</span>, a machine learning and data science enthusiast on a mission to turn data into actionable insights and innovative solutions.</h3>
 
-<!-- Animated Coding Image -->
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<!-- Animated Coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <!-- Profile Views and Twitter Follow -->
 <p align="left">
@@ -72,10 +72,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;" title="Python - My go-to language for machine learning and data science."/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin-right: 10px;" title="Scikit-Learn - Building machine learning models that predict the future."/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin-right: 10px;" title="Seaborn - Creating beautiful visualizations from data."/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos
+    <img src="https://upload.wikimedia.org/w
+
