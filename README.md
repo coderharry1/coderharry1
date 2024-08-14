@@ -1,7 +1,12 @@
 <!-- Banner Image with Welcome Message -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1653179241439-c4c10083879a?q=80&w=3130&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner Image" width="100%" />
+  <img src="https://unsplash.com/photos/black-flat-screen-computer-monitor-on-green-desk-X89VSmdDKE0" alt="Banner Image" width="100%" />
 </p>
+
+<h1 align="center">Welcome to My Page!</h1>
+<p align="center">Here you can find all my projects, thoughts, and experiences in the world of technology. Feel free to explore and connect!</p>
+
+<!-- Rest of your README content below -->
 
 <h1 align="center">Welcome to My Page!</h1>
 <p align="center">Here you can find all my projects, thoughts, and experiences in the world of technology. Feel free to explore and connect!</p>
