@@ -1,6 +1,3 @@
-<!-- Rest of your README content below -->
-
-<h1 align="center">Welcome to My Page!</h1>
 <p align="center">Here you can find all my projects, thoughts, and experiences in the world of technology. Feel free to explore and connect!</p>
 
 <h1 align="center">Hi 👋, I'm S.Harish Krishnan</h1>
