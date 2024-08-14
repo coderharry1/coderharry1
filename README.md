@@ -14,7 +14,6 @@ Here is the complete version of your portfolio using a markdown format that alig
 ## 🔬 **Projects**
 
 ### **Here are some of the key projects I've worked on:**
-
 ---
 
 #### 📊 **Breast Cancer Prediction**
