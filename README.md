@@ -1,7 +1,3 @@
-<!-- Add the Canva link as a banner image -->
-<p align="center">
-  <img src="https://www.canva.com/design/DAGN3-jLlb8/aSW-Stzc-YO1y6Uu-pal5g/view?utm_content=DAGN3-jLlb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner Image" width="800" />
-</p>
 <h1 align="center">Hi 👋, I'm S.Harish Krishnan</h1>
 <h3 align="center">A passionate machine learning and data science enthusiast from Australia</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif”>
