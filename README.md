@@ -8,26 +8,24 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-# 👋 Hi There, I'm Harish Krishnan
+# 👋 Hi, I'm S.Harish Krishnan
 
-**`Aspiring Software Engineer | Data Scientist | Problem Solver`**
-
-I’m a **Master's student in Data Science** and an enthusiastic **Software Development Engineer Intern** with a passion for solving complex real-world problems. My goal is to build **scalable, impactful software solutions** that drive efficiency and transform industries. From **AI/ML models** to **cloud architecture**, I am committed to using technology to make a **positive impact** on people's lives.
+A passionate **Software Developer Intern** currently pursuing a **Master's in Data Science** at the **University of Adelaide**, expected to graduate in **September 2025**. I’m committed to leveraging cutting-edge technologies such as **AI/ML**, **cloud computing**, and **data-driven approaches** to solve real-world problems. My goal is to optimize processes and drive innovation across industries, combining my passion for software development with a strong foundation in data science.
 
 ---
 
-### 🌟 **My Mission**
+🌟 **My Mission**
 
-I’m driven by a mission to **leverage technology for good**. Whether it's developing AI-driven healthcare models or optimizing cloud systems, I strive to create solutions that not only work but also **empower people and industries** to operate better, faster, and smarter.
+I’m driven by a mission to **leverage technology for good**. Whether it's developing AI-driven healthcare models or optimizing cloud systems, I aim to create solutions that **empower industries and improve lives**. I’m passionate about collaborating with forward-thinking teams to turn innovative ideas into impactful results.
 
 ---
 
-<p align="left">
+<p align="center">
    <a href="https://github.com/coderharry1?tab=followers">
-      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/coderharry1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/coderharry1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
    </a>
    <a href="https://github.com/coderharry1?tab=repositories">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/coderharry1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/coderharry1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
    <a href="https://leetcode.com/u/coderharry1/">
       <img alt="LeetCode profile" title="Check out my LeetCode" src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
@@ -36,20 +34,21 @@ I’m driven by a mission to **leverage technology for good**. Whether it's deve
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰 **Languages and Tools**
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
+<p align="left">
+   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+   <img alt="GCP" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-#
+---
 
 ### 🔥 **Current Focus**
 
@@ -57,43 +56,48 @@ I’m driven by a mission to **leverage technology for good**. Whether it's deve
 
 ---
 
-## 📈 Featured Projects
+## 📈 **Featured Projects**
 
 ### 🧠 **Brain Tumor Detection with CNNs**
 - **Technologies:** TensorFlow, PyTorch, OpenCV  
-- **Overview:** Developing a model that detects brain tumors in MRI scans, achieving a **20% improvement in diagnostic accuracy** and reducing training time by **25%**. This project is part of an open-source initiative to support faster, more accurate diagnoses in healthcare.
-- **Impact:** Helping reduce diagnostic errors and optimise medical decision-making.
+- **Overview:** Developing a deep learning model that detects brain tumors in MRI scans, aiming to achieve a **20% improvement in diagnostic accuracy** and reduce training time by **25%**.  
+- **Impact:** Helping reduce diagnostic errors and optimize medical decision-making, contributing to more reliable healthcare outcomes.
 
 ### 📊 **Apple Stock Price Prediction**
 - **Technologies:** Python, Scikit-learn  
-- **Overview:** Created a predictive model with **98% accuracy** to forecast Apple’s stock prices, enabling stakeholders to make data-driven financial decisions.
-- **Impact:** Contributed to more precise financial forecasting, aiding strategic planning for investors.
+- **Overview:** Built a predictive model with **98% accuracy** to forecast Apple’s stock prices, enabling data-driven financial decisions.  
+- **Impact:** Supported more effective strategic planning for investors by improving forecasting accuracy.
 
 ### 🚲 **Seoul Bike Rental Demand Forecasting**
 - **Technologies:** Python, Tableau  
-- **Overview:** Built a predictive model for 1.5 million data points, boosting model accuracy by **22.77%** for bike rental demand across 20 stations.
-- **Impact:** Optimized resource management, increasing bike availability during peak demand and improving customer satisfaction.
+- **Overview:** Led the development of a predictive model for **1.5 million data points**, improving model accuracy by **22.77%** for bike demand across 20 rental stations.  
+- **Impact:** Optimized resource management, resulting in a **30% increase** in bike availability during peak demand periods.
+
+### 🩺 **Breast Cancer Prediction**
+- **Technologies:** Python, SVM  
+- **Overview:** Built a machine learning model for a pathology lab, achieving **90%+ accuracy** in breast cancer prediction.  
+- **Impact:** Improved recall rate to **92.31%**, surpassing the client’s target and enabling more reliable diagnoses for early-stage cancer detection.
 
 ---
 
-## 🌍 Why I’m the Perfect Fit
+## 🌍 **Why I’m the Perfect Fit**
 
-I don’t just write code—I build **solutions that solve real problems** with measurable impact. Here’s why I stand out:
+I don’t just write code—I build **scalable solutions** with **measurable impact**. My blend of **cloud expertise**, **AI/ML capabilities**, and **team collaboration** has consistently delivered success. Here’s why I stand out:
 
-- **Cloud Expertise**: Proficient in **AWS** and **GCP**, with hands-on experience in optimizing cloud infrastructure for performance and scalability.
-- **Data-Driven Results**: I have a proven track record of driving **20% improvements in diagnostic accuracy** and increasing predictive accuracy by **22.77%**.
-- **Leadership & Collaboration**: I lead cross-functional teams and collaborate with experts to deliver projects on time and exceed expectations.
-- **Problem-Solving Mindset**: Strong foundation in algorithms, data structures, and design patterns to efficiently solve complex challenges.
+- **Cloud Expertise**: Proficient in **AWS** and **GCP**, with hands-on experience in optimizing infrastructure for performance and scalability.
+- **Data-Driven Results**: Proven track record of improving diagnostic accuracy by **20%**, increasing predictive accuracy by **22.77%**, and achieving a recall rate of **92.31%** in critical healthcare models.
+- **Leadership & Collaboration**: Successfully lead **cross-functional teams** to deliver projects on time, consistently exceeding expectations.
+- **Problem-Solving Mindset**: Strong foundation in algorithms, data structures, and design patterns, enabling me to tackle complex challenges efficiently.
 
 ---
 
-## 🚀 Ready to Build the Future?
+## 🚀 **Ready to Build the Future?**
 
 I’m excited to collaborate with innovative teams on projects that have a **real-world impact**. Whether it’s designing AI-driven healthcare solutions or optimizing cloud infrastructure, I’m ready to apply my skills to build the future.
 
 ---
 
-### 📫 Let’s Connect!
+### 📫 **Let’s Connect!**
 
 - **Email:** [haricap273@gmail.com](mailto:haricap273@gmail.com)  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/harishkds)
@@ -107,3 +111,4 @@ I’m excited to collaborate with innovative teams on projects that have a **rea
 ### 📊 **GitHub Stats**
 
 ![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderharry1&show_icons=true&theme=radical)
+
