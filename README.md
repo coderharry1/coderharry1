@@ -7,24 +7,67 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently diving deep **into AWS, GCP, HP, CISCO, F5 , mastering cloud technologies that power the infrastructure of tomorrow.**
 
-- 🌱 I’m currently learning **AWS, GCP , HP , CISCO , F5**
+# 👋 Welcome to My GitHub Portfolio
 
-- 📫 How to reach me **haricap273@gmail.com**
+## 🚀 About Me  
+I'm **Harish Krishnan**, a Master's student in Data Science with a passion for solving complex problems through innovative software solutions. With hands-on experience in cloud technologies like **AWS** and **GCP**, and programming skills in **Python**, **C++**, and **Java**, I’m on a journey to empower organizations with scalable, high-impact solutions.
 
-- ⚡ Fun fact **Despite my analytical mindset, I love a good laugh and believe that humor can make even the toughest data challenges a bit more fun!**
+- 📍 Based in **Adelaide, Australia**
+- 🧠 Learning cutting-edge technologies like **Deep Learning**, **Big Data**, and **Cloud Computing**
+- 💼 Open to Software Engineering and Data Science Internship roles
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harishkds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishkds" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 💻 My Skills at a Glance
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderharry1&show_icons=true&locale=en&layout=compact" alt="coderharry1" /></p>
+- **Programming Languages:** Python, Java, C++, SQL  
+- **Cloud Platforms:** AWS, GCP, Azure  
+- **Data Structures & Algorithms:** Strong grasp of fundamentals and problem-solving skills  
+- **Software Development:** Experience building scalable systems, writing clean, maintainable code  
+- **Machine Learning & AI:** Implemented models with frameworks like TensorFlow and PyTorch  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderharry1&show_icons=true&locale=en" alt="coderharry1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderharry1&" alt="coderharry1" /></p>
+## 🔧 What I’m Working On
+
+Currently, I am developing a **deep learning model for brain tumor detection** using CNNs, collaborating with a PhD-level researcher. This project applies cutting-edge technology to assist doctors in making accurate diagnoses, demonstrating my ability to handle real-world problems in healthcare. 🚀
+
+---
+
+## 📈 Featured Projects
+
+### 1. **Brain Tumor Detection with CNNs**  
+- **Technologies Used:** TensorFlow, OpenCV, PyTorch  
+- **Description:** Developed a CNN model to classify MRI scans of brain tumors, optimizing model accuracy and reducing false positives to meet healthcare standards.
+
+### 2. **Apple Stock Price Prediction**  
+- **Technologies Used:** Python, Scikit-learn  
+- **Description:** Built a predictive model using Linear, Ridge, and Lasso regression, achieving a 98% R2 score in forecasting Apple stock prices.
+
+### 3. **Seoul Bike Rental Demand Prediction**  
+- **Technologies Used:** Python, Tableau  
+- **Description:** Developed an analytics model to predict bike rental demand based on weather data, optimizing rental operations and improving business strategy.
+
+---
+
+## 🌍 Global Impact & Vision
+
+I aim to contribute to innovative projects that improve lives and create scalable solutions. My goal is to leverage **cloud technologies** and **software engineering** best practices to drive progress in diverse industries, from healthcare to finance and beyond. With a passion for problem-solving, I’m constantly exploring ways to make a meaningful impact through technology.
+
+---
+
+## 🎯 Why You Should Consider Me
+
+With a **growth mindset**, a strong technical foundation, and an eagerness to learn, I bring both passion and technical expertise to the table. Whether it's developing software that helps people or designing efficient algorithms, I thrive in fast-paced, agile environments. Let’s build the future together!
+
+---
+
+### 📫 How to Reach Me
+
+Email: [haricap273@gmail.com](mailto:haricap273@gmail.com)  
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/harishkrishnan)
+
+---
+
+⚡ **Fun fact:** When I’m not coding, I love a good laugh! I believe humor makes even the toughest data challenges a bit more fun.
