@@ -50,7 +50,7 @@ A passionate **Software Developer Intern** currently pursuing a **Master's in Da
 
 ## 📈 **Featured Projects**
 
-### 🧠 **Brain Tumor Detection with CNNs**
+### 🧠 **Brain Tumor Detection By Deep Learning**
 - **Technologies:** TensorFlow, PyTorch, OpenCV  
 - **Overview:** Developing a deep learning model that detects brain tumors in MRI scans, aiming to achieve a **20% improvement in diagnostic accuracy** and reduce training time by **25%**.  
 - **Impact:** Helping reduce diagnostic errors and optimize medical decision-making, contributing to more reliable healthcare outcomes.
