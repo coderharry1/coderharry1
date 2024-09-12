@@ -53,7 +53,7 @@ I’m driven by a mission to **leverage technology for good**. Whether it's deve
 
 ### 🔥 **Current Focus**
 
-🔬 **Leading the development** of an **AI-powered Brain Tumor Detection System** using **Convolutional Neural Networks (CNNs)** at the **University of Adelaide**. This project aims to **improve diagnostic accuracy by 20%** and **reduce model training time by 25%**, offering faster, more reliable decision-making for medical professionals.
+🔬 **Leading the development** of an **AI-powered Brain Tumor Detection System** using **Deep Learning Models** at the **University of Adelaide**. This project aims to **improve diagnostic accuracy by 20%** and **reduce model training time by 25%**, offering faster, more reliable decision-making for medical professionals.
 
 ---
 
@@ -61,8 +61,8 @@ I’m driven by a mission to **leverage technology for good**. Whether it's deve
 
 ### 🧠 **Brain Tumor Detection with CNNs**
 - **Technologies:** TensorFlow, PyTorch, OpenCV  
-- **Overview:** Developed a model that detects brain tumors in MRI scans, achieving a **20% improvement in diagnostic accuracy** and reducing training time by **25%**. This project is part of an open-source initiative to support faster, more accurate diagnoses in healthcare.
-- **Impact:** Helped reduce diagnostic errors and optimize medical decision-making.
+- **Overview:** Developing a model that detects brain tumors in MRI scans, achieving a **20% improvement in diagnostic accuracy** and reducing training time by **25%**. This project is part of an open-source initiative to support faster, more accurate diagnoses in healthcare.
+- **Impact:** Helping reduce diagnostic errors and optimise medical decision-making.
 
 ### 📊 **Apple Stock Price Prediction**
 - **Technologies:** Python, Scikit-learn  
@@ -80,7 +80,7 @@ I’m driven by a mission to **leverage technology for good**. Whether it's deve
 
 I don’t just write code—I build **solutions that solve real problems** with measurable impact. Here’s why I stand out:
 
-- **Cloud Expertise**: Successfully deployed projects on **AWS**, **GCP**, and **Azure**, optimizing infrastructure for performance and scalability.
+- **Cloud Expertise**: Proficient in **AWS** and **GCP**, with hands-on experience in optimizing cloud infrastructure for performance and scalability.
 - **Data-Driven Results**: I have a proven track record of driving **20% improvements in diagnostic accuracy** and increasing predictive accuracy by **22.77%**.
 - **Leadership & Collaboration**: I lead cross-functional teams and collaborate with experts to deliver projects on time and exceed expectations.
 - **Problem-Solving Mindset**: Strong foundation in algorithms, data structures, and design patterns to efficiently solve complex challenges.
