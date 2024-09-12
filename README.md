@@ -66,7 +66,7 @@ With a **growth mindset**, a strong technical foundation, and an eagerness to le
 ### 📫 How to Reach Me
 
 Email: [haricap273@gmail.com](mailto:haricap273@gmail.com)  
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/harishkrishnan)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/harishkds/)
 
 ---
 
