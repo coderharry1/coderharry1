@@ -61,7 +61,7 @@ A passionate **Software Developer Intern** currently pursuing a **Master's in Da
 - **Impact:** Supported more effective strategic planning for investors by improving forecasting accuracy.
 
 ### 🚲 **Seoul Bike Rental Demand Forecasting**
-- **Technologies:** Python, Tableau  
+- **Technologies:** Python , SVR
 - **Overview:** Led the development of a predictive model for **1.5 million data points**, improving model accuracy by **22.77%** for bike demand across 20 rental stations.  
 - **Impact:** Optimized resource management, resulting in a **30% increase** in bike availability during peak demand periods.
 
