@@ -3,20 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderharry1&label=Profile%20views&color=0e75b6&style=flat" alt="coderharry1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 # 👋 Hi, I'm S.Harish Krishnan
 
 A passionate **Software Developer Intern** currently pursuing a **Master's in Data Science** at the **University of Adelaide**, expected to graduate in **September 2025**. I’m committed to leveraging cutting-edge technologies such as **AI/ML**, **cloud computing**, and **data-driven approaches** to solve real-world problems. My goal is to optimize processes and drive innovation across industries, combining my passion for software development with a strong foundation in data science.
-
----
-
-🌟 **My Mission**
-
-I’m driven by a mission to **leverage technology for good**. Whether it's developing AI-driven healthcare models or optimizing cloud systems, I aim to create solutions that **empower industries and improve lives**. I’m passionate about collaborating with forward-thinking teams to turn innovative ideas into impactful results.
 
 ---
 
@@ -53,6 +42,9 @@ I’m driven by a mission to **leverage technology for good**. Whether it's deve
 ### 🔥 **Current Focus**
 
 🔬 **Leading the development** of an **AI-powered Brain Tumor Detection System** using **Deep Learning Models** at the **University of Adelaide**. This project aims to **improve diagnostic accuracy by 20%** and **reduce model training time by 25%**, offering faster, more reliable decision-making for medical professionals.
+
+---
+
 
 ---
 
