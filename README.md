@@ -5,10 +5,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Master of Data Science @ University of Adelaide  
+- 🎓 Master of Data Science @ University of Adelaide (Aug'25)
+- 🎓 Bachelors of Computer Engineering @ University of Mumbai (May'25)
 - 🧠 Passionate about Machine Learning, Analytics, and Agentic AI  
 - 🌱 Currently learning **Langflow & Agentic AI**  
-- 🛠 Skilled in **Python, SQL, ML Engineering, and Data Visualization**
+- 🛠 Skilled in **Python, SQL, ML Engineering, and Data Visualisation**
 - 🚀 Open to: **Machine Learning | Data Analyst | Strategy Analyst | Product Analyst | Data Engineer roles across Australia**
 - ✍️ I write about Data & AI here: https://medium.com/@haricap273  
 - 📂 Portfolio: https://coderharry1.github.io  
@@ -65,18 +66,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderharry1&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-### 🏆 Achievements & Contribution Graph
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=coderharry1&theme=radical&margin-w=10&margin-h=10" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/coderharry1/coderharry1/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
