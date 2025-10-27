@@ -1,40 +1,44 @@
-<!-- Header -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<!-- Flexible Header Container -->
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
 
-<div align="left">
+ <!-- Left Section -->
+ <div style="flex: 1;">
 
 <h1>Hey 👋 What's Up? I'm Harish</h1>
 
-🎓 Master of Data Science, University of Adelaide • Ex-Consulting @ Infosys • ML Builder • AI Community Lead  
-📍 Sydney, Australia — Open to ML | Data Analyst | Product/Strategy Analyst | Data Engineer roles  
+🎓 Master of Data Science (University of Adelaide) • Ex-Consulting @ Infosys • ML Builder  
+📍 Sydney, Australia — Actively seeking roles in ML | Data | Product Strategy  
 📚 Currently learning: <strong>Langflow</strong> & Agentic AI 🔄  
+💬 Always exploring ways to turn data into meaningful decisions  
 
-<br />
+<br/>
 
-<!-- Tech Stack Icons -->
+<!-- Tech Icons -->
 <p>
-  <img src="https://skillicons.dev/icons?i=py" height="50" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="50" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="50" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" />
-  <img src="https://skillicons.dev/icons?i=tableau" height="50" />
-  <img src="https://skillicons.dev/icons?i=PowerBI" height="50" />
-   <img src="https://skillicons.dev/icons?i=Excel" height="50" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="45" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" />
+  <img src="https://skillicons.dev/icons?i=tableau" height="45" />
 </p>
 
-<!-- Social Links -->
+<!-- Contact Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/s-harish-krishnan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="https://medium.com/@haricap273"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="mailto:haricap273@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28"/></a>
+  <a href="https://www.linkedin.com/in/s-harish-krishnan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="26" />
+  </a>
+  <a href="https://medium.com/@haricap273">
+    <img src="https://img.shields.io/badge/Medium-Writings-black?style=for-the-badge&logo=medium" height="26" />
+  </a>
+  <a href="mailto:haricap273@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" height="26" />
+  </a>
 </p>
-
-</div>
 
  <!-- Visitor Badge -->
 <p>
@@ -54,10 +58,11 @@
 <br/><br/>
 
 <!-- GitHub Stats -->
-<p>
-  <img src="https://streak-stats.demolab.com?user=coderharry1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" />
-  <img src="https://github-profile-trophy.vercel.app?username=coderharry1&theme=dracula&no-frame=false&margin-w=8" height="160" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=coderharry1&theme=dracula&hide_border=false" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderharry1&theme=dracula" height="160" />
 </p>
+
 
 
 ###
