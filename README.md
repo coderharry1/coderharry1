@@ -49,9 +49,7 @@
  </div>
 
  <!-- Right GIF -->
- <div>
-   <img src="https://media.tenor.com/2uyENR6Y19oAAAAC/coding.gif" alt="coding" width="330" />
- </div>
+ <img align="right" alt="learning" width="350" src="https://media.tenor.com/wfEN4Vd_GYsAAAAC/typing.gif" />
 
 </div>
 
