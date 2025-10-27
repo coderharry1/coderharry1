@@ -23,6 +23,8 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="50" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" />
   <img src="https://skillicons.dev/icons?i=tableau" height="50" />
+  <img src="https://skillicons.dev/icons?i=PowerBI" height="50" />
+   <img src="https://skillicons.dev/icons?i=Excel" height="50" />
 </p>
 
 <!-- Social Links -->
