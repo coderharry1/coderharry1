@@ -1,67 +1,53 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 👋 Hey, I'm S. Harish Krishnan
 
-###
+🔹 Data Scientist & ML Engineer in the making  
+🔹 Ex-Consulting | Infosys | APAC Financial Analytics  
+🔹 Currently seeking **ML / Data Analyst / Strategy Analyst / Product Analyst / Data Engineer** roles across Australia  
+🔹 Currently reading: **Langflow** & experimenting with AI Agent ecosystems  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+### 🚀 What I Do
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+I turn large, messy data into intelligent systems that make decisions faster.  
+From **reinforcement learning optimisers** to **healthcare diagnostics** and **financial automation**, I love building models that scale in the real world.
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### ✅ Highlights
 
-###
+- 🎓 **Master of Data Science**, University of Adelaide  
+  High Distinction in **Deep Learning (95/100)**, **Statistical ML**, **Big Data Analysis**
+- 🧠 Improved brain tumour detection accuracy by **20%** with CNN & U-Net research
+- 💰 Accelerated **$11.6B revenue forecasting** at Infosys Consulting using SQL & ML automation
+- 📈 Identified **$99M new revenue opportunities** across APAC using KPI analytics
+- 🌏 Led ML workshops + guided community learning as **City Lead @ Build Club (AI Startup)**
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 🧩 Recent Projects
 
-<p align="left">I'm from Sydney, Australia <br><br>- 🔭 I love to solve <br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+| Project | Impact | Tech |
+|--------|--------|------|
+| 🧾 **HAMT – AI Tax Assistant** | Automated 70% of CPA workflows & reduced compliance errors by 20% | LangChain, Gemini Pro, LLMs, Python |
+| 🎧 **RL Staffing Optimiser** | +18% customer satisfaction & -10% agent idle time | RL, OpenAI Gym, Pandas |
+| 🧑‍⚕️ **Policy Impact Dashboard** | Exposed 34% care gap in post-surgery recovery | Excel, SQL, Healthcare Analytics |
+| 🔍 **Credit Fraud Insights** | Reduced fraud detection time by 92% | SQL, Tableau |
+| 🔬 **Brain Tumor Detection** | +20% diagnostic accuracy | CNN, U-Net, PyTorch, TensorFlow |
 
-###
+Explore them here 👇  
+[🔗 View All Projects](#) *(Replace with Portfolio/GitHub link)*
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### 💡 Skills & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+**Programming**: Python, SQL, R  
+**ML**: Scikit-learn, TensorFlow, PyTorch  
+**Cloud**: AWS (SageMaker, Redshift)  
+**Analytics**: Tableau, Power BI, Excel, A/B Testing  
+**Other**: Data Modelling, Statistical Analysis, Experimentation, Vision AI, RL
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+### 🎯 What
