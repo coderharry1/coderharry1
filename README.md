@@ -1,92 +1,71 @@
-<!-- Flexible Header Container -->
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<!-- ### Hi there 👋 --->
+# 💫 About Me:
+🎓 Master of Data Science graduate from the University of Adelaide, passionate about building AI that solves real-world problems.<br>
+🚀 **Working on:** Generative AI agents, Computer Vision, and ML-powered automation.<br>
+🤝 **Collaborate on:** AI/ML pipelines, LLM automation, Computer Vision use cases, and data-centric analytics projects.<br>
+🔎 **Looking for opportunities:** Machine Learning Engineer | Data Analyst | Product/Strategy Analyst | Data Engineer roles across Australia.<br>
+🧠 **Currently learning:** LangFlow, advanced model optimization, and agentic AI workflows.<br>
+✨ **Fun fact:** Coffee + Curiosity = Every project I’ve ever built ☕🤖
 
- <!-- Left Section -->
- <div style="flex: 1;">
+---
 
-<h1>Hey 👋 What's Up? I'm Harish</h1>
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-harish-krishnan)
+[![Medium](https://img.shields.io/badge/Medium-black.svg?logo=medium&logoColor=white)](https://medium.com/@haricap273)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:haricap273@gmail.com)
 
-🎓 Master of Data Science (University of Adelaide) • Ex-Consulting @ Infosys • ML Builder  
-📍 Sydney, Australia — Actively seeking roles in ML | Data | Product Strategy  
-📚 Currently learning: <strong>Langflow</strong> & Agentic AI 🔄  
-💬 Always exploring ways to turn data into meaningful decisions  
+---
 
-<br/>
+# 🐍 My Contributions:
+![](https://raw.githubusercontent.com/coderharry1/coderharry1/output/github-contribution-grid-snake.svg)
 
-<!-- Tech Icons -->
-<p>
-  <img src="https://skillicons.dev/icons?i=py" height="45" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="45" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="45" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="45" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" />
-  <img src="https://skillicons.dev/icons?i=tableau" height="45" />
-</p>
+---
 
-<!-- Contact Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/s-harish-krishnan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="26" />
-  </a>
-  <a href="https://medium.com/@haricap273">
-    <img src="https://img.shields.io/badge/Medium-Writings-black?style=for-the-badge&logo=medium" height="26" />
-  </a>
-  <a href="mailto:haricap273@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" height="26" />
-  </a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
 
- <!-- Visitor Badge -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=coderharry1&label=Profile Views&color=brightgreen&style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Australia-brightgreen?style=flat-square" />
-</p>
+---
 
- </div>
+# 📌 Featured Projects
 
- <!-- Right GIF -->
- <img align="right" alt="learning" width="350" src="https://media.tenor.com/wfEN4Vd_GYsAAAAC/typing.gif" />
+| Project | Impact | Tech |
+|--------|--------|------|
+| 🧾 **HAMT – AI Tax Assistant** | Automated 70% of CPA workflows, -20% audit errors | LangChain, LLMs, Gemini Pro, Python |
+| 🎧 **RL Staffing Optimiser** | +18% CSAT, -10% agent idle time | RL, OpenAI Gym, Python |
+| 🧠 **Brain Tumour Detection** | +20% accuracy with CNN/U-Net | TensorFlow, PyTorch, CV |
+| 📊 **Policy Healthcare Dashboard** | Identified 34% care gap from 9k+ patient cases | Excel, SQL, Healthcare Analytics |
+| 💳 **Fraud Detection Analytics** | -92% time for fraud pattern recognition | SQL, Tableau |
 
-</div>
+---
 
-<br/><br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=coderharry1&theme=dark&hide_border=false&rank_icon=github)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=coderharry1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderharry1&theme=dark&hide_border=false&layout=compact)
 
-<!-- GitHub Stats -->
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=coderharry1&theme=dracula&hide_border=false" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderharry1&theme=dracula" height="160" />
-</p>
+---
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=coderharry1&theme=radical&no-frame=false&margin-w=4)
 
+---
 
-###
+# ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="center">🚀 Featured Projects</h3>
+---
 
-<div align="center">
+[![](https://visitcount.itsvg.in/api?id=coderharry1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-| Project | Preview | Description |
-|--------|:-------:|-------------|
-| 🧾 **HAMT – AI Tax Assistant** | <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="220" /> | Automates 70% of CPA workflows using LangChain + Gemini Pro |
-| 🎧 **RL Staffing Optimiser** | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjOTRncTgya3dlcDNvbnVpY2RjbHFybXlxOXc3ZzZjMDQyN2w5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VkHF8n7f2p0yE/giphy.gif" width="220" /> | +18% CSAT using RL simulations on 10k+ call logs |
-| 🧠 **Brain Tumor Detection** | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" /> | CNN + U-Net for +20% diagnostic accuracy |
-| 📊 **Policy Impact Dashboard** | <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="220" /> | Identified 34% care gaps from 9k+ medical records |
-| 🔍 **Fraud Detection Analytics** | <img src="https://media.giphy.com/media/TKXcImjYEx9QJzqj5R/giphy.gif" width="220" /> | 92% faster fraud signal detection using SQL + Tableau |
-
-</div>
-
-###
-
-<h3 align="center">🎯 My Goal</h3>
-
-<p align="center">
-  Build machine-learning systems that improve decisions, automate complexity, and create meaningful user impact at scale.
-</p>
-
-###
 
 
