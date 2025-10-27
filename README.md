@@ -37,7 +37,7 @@
 </div>
 
 <!-- Coding GIF - always learning -->
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZqbG0zNmE3a2NnZW5kZmpjcmhodTBzbG8xcjB5bTNia3V0OG43dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif"/>
+<img align="right" alt="coding" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Falways-learning-learn-learning-gif-22123564&psig=AOvVaw03fXuMsFPfFf-yl_wcPXxC&ust=1761686783180000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCi6-uoxZADFQAAAAAdAAAAABAE">
 
 </div>
 
