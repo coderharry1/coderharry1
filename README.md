@@ -1,65 +1,52 @@
-<h1 align="center">Hey 👋 What's Up? I'm Harish</h1>
+<!-- Header -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<p align="center">
-  🎓 Master of Data Science, University of Adelaide • Ex-Consulting @ Infosys • ML Builder • AI Community Lead<br />
-  📍 Sydney, Australia — Open to ML | Data Analyst | Product/Strategy Analyst | Data Engineer roles<br />
-  📚 Currently learning: <strong>Langflow</strong> & Agentic AI 🔄<br />
+<div align="left">
+
+<h1>Hey 👋 What's Up? I'm Harish</h1>
+
+🎓 Master of Data Science, University of Adelaide • Ex-Consulting @ Infosys • ML Builder • AI Community Lead  
+📍 Sydney, Australia — Open to ML | Data Analyst | Product/Strategy Analyst | Data Engineer roles  
+📚 Currently learning: <strong>Langflow</strong> & Agentic AI 🔄  
+
+<br />
+
+<!-- Tech Stack Icons -->
+<p>
+  <img src="https://skillicons.dev/icons?i=py" height="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="50" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" />
+  <img src="https://skillicons.dev/icons?i=tableau" height="50" />
 </p>
 
-###
+<!-- Social Links -->
+<p>
+  <a href="https://www.linkedin.com/in/s-harish-krishnan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28"/></a>
+  <a href="https://medium.com/@haricap273"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="28"/></a>
+  <a href="mailto:haricap273@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28"/></a>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="sklearn logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="numpy logo" />  
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tableau" height="60" alt="tableau logo" />
 </div>
 
-###
+<!-- Coding GIF - always learning -->
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZqbG0zNmE3a2NnZW5kZmpjcmhodTBzbG8xcjB5bTNia3V0OG43dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif"/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/s-harish-krishnan/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@haricap273">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="medium logo" />
-  </a>
-  &nbsp;
-  <a href="mailto:haricap273@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
-  </a>
 </div>
 
-###
+<br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=coderharry1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=coderharry1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="160" alt="trophy graph" />
-</div>
+<!-- GitHub Stats -->
+<p>
+  <img src="https://streak-stats.demolab.com?user=coderharry1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" />
+  <img src="https://github-profile-trophy.vercel.app?username=coderharry1&theme=dracula&no-frame=false&margin-w=8" height="160" />
+</p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderharry1/coderharry1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coderharry1/coderharry1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/coderharry1/coderharry1/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
