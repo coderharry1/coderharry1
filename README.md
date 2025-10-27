@@ -26,8 +26,8 @@
 <a href="https://medium.com/@haricap273" target="_blank">
 <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://www.leetcode.com/coderharry1" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge&logo=leetcode&logoColor=gold" />
+<a href="mailto:haricap273@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
