@@ -36,12 +36,22 @@
 
 </div>
 
-<!-- Coding GIF - always learning -->
-<img align="right" alt="coding" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Falways-learning-learn-learning-gif-22123564&psig=AOvVaw03fXuMsFPfFf-yl_wcPXxC&ust=1761686783180000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCi6-uoxZADFQAAAAAdAAAAABAE">
+ <!-- Visitor Badge -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=coderharry1&label=Profile Views&color=brightgreen&style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Australia-brightgreen?style=flat-square" />
+</p>
+
+ </div>
+
+ <!-- Right GIF -->
+ <div>
+   <img src="https://media.tenor.com/2uyENR6Y19oAAAAC/coding.gif" alt="coding" width="330" />
+ </div>
 
 </div>
 
-<br />
+<br/><br/>
 
 <!-- GitHub Stats -->
 <p>
